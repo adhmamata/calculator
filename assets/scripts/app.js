@@ -5,7 +5,6 @@ let currentResult = defaultResult;
 //gets inputs from user
 function getUserNumberInput(){
 return parseInt(userInput.value);
-// `${sfafs} and ${ssd}`
 }
 
 //generate outputs/result.
